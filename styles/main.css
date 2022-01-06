@@ -1,0 +1,30 @@
+.martins-aquairum {
+  font-size: 5em;
+  color: blue;
+  border-color: coral;
+  border: 7ch;
+  font-style: oblique;
+  text-align: center;
+
+ 
+    
+    
+
+}
+.goldfish {
+    width: 25%
+
+ ;
+}
+
+.puffer {
+    width: 25%;
+}
+.fish-profile {
+    border: 2px solid coral;
+display: flex;
+flex-direction: row;
+width: 18em;
+}
+
+

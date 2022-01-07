@@ -1,6 +1,6 @@
 .martins-aquairum {
   font-size: 5em;
-  color: blue;
+  color: coral;
   border-color: coral;
   border: 7ch;
   font-style: oblique;
@@ -23,8 +23,48 @@
 .fish-profile {
     border: 2px solid coral;
 display: flex;
-flex-direction: row;
-width: 18em;
+flex-direction: column;
+width: 23em;
+margin: 10px;
+background-color: rgb(173, 230, 206);
 }
 
+.fix-it {
+    display: flex;
+    
 
+}
+
+.the-travel-tips {
+    flex-direction: column;
+    margin: 15px;
+    width: 27em;
+    border: 2px solid coral;
+    background-color:rgb(173, 230, 206) ;
+}
+
+.Advice {
+    margin: 10px;
+    width: 12em;
+    border: 2px solid coral;
+    background-color: lightpink;
+
+
+}
+
+.Tips {
+    border: 2px solid chartreuse;
+    background-color: dodgerblue;
+}
+.Locations {
+    border: 2px solid chartreuse;
+    background-color:dodgerblue;
+}
+
+.Fishes {
+    border: 2px solid chartreuse;
+    background-color: dodgerblue;
+}
+body {
+    background-image:url(https://media.istockphoto.com/photos/underwater-scene-tropical-seabed-with-reef-and-sunshine-picture-id1152237432?k=20&m=1152237432&s=612x612&w=0&h=7oGt9q8j0U0pIvuRGqU74wiGZAJWvRH5S8VYQjZLppE=)
+}
